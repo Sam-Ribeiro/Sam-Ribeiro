@@ -12,7 +12,7 @@
 
 ## 🚀 Projetos Recentes:
 
-🎲  [Bot de discord para RPG](https://github.com/Sam-Ribeiro/BotDados)
+🎲  [Bot de discord para RPG](https://github.com/Sam-Ribeiro/BotCervoruja)
 
 ## 🧑‍💻 Tecnologias mais usadas por mim:
 
