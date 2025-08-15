@@ -14,17 +14,24 @@
 
 🎲  [Bot de discord para RPG](https://github.com/Sam-Ribeiro/BotCervoruja)
 
+📚  [Página web, Crud de pessoas](https://github.com/Sam-Ribeiro/Operacao-Curiosidade)
+
 ## 🧑‍💻 Tecnologias mais usadas por mim:
 
--   Linguagens:
+-   Frontend:
+      [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+      [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+      [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+-   Backend:
+      [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+      [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
+      [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+      [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+      [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 
 -   Banco de dados:
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+      [![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
 
 ## 🌐 Onde me encontrar:
 
